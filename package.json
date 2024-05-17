@@ -1,6 +1,6 @@
 {
   "name": "@isakshamkumar2/react-assets-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A UI library for Genflowly",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
